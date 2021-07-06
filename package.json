@@ -1,0 +1,22 @@
+{
+  "name": "biblioteca-backend",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de uma biblioteca!",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorl30/biblioteca-backend.git"
+  },
+  "author": "Vitor Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorl30/biblioteca-backend/issues"
+  },
+  "homepage": "https://github.com/vitorl30/biblioteca-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
