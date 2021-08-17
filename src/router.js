@@ -10,6 +10,8 @@ routes.get('/obras', obras.list)
 routes.post('/obras', obras.create)
 
 routes.get('/obras/:id', obras.obra)
+routes.put('/obras/:id', obras.edit)
+
 routes.delete('/obras/:id', obras.remove)
 
 
